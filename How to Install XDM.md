@@ -2,7 +2,7 @@
 ## Step 01
 Open whatever browser you use. I'll use Firefox in this tutorial.
 ![[Pasted image 20250212155737.png]]
-![](https://raw.githubusercontent.com/NethulaRankidu/my-wiki/refs/heads/main/Pasted%20image%20250212155737.png)   
+![](https://github.com/NethulaRankidu/my-wiki/blob/main/Pasted%20image%2020250212155737.png?raw=true)   
 ## Step 02
 Once opened, go to address bar and paste https://xtremedownloadmanager.com/#downloads and press enter (or somehow go to this website)
 ![[Pasted image 20250212160009.png]]
